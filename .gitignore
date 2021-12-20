@@ -1,0 +1,9 @@
+node_modules/
+truffle-config.js
+build
+contract.txt
+test/
+migrations/
+backup
+
+
